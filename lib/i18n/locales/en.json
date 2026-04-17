@@ -11,7 +11,8 @@
   "sections": {
     "techStack": "Technical Stack",
     "experience": "Experience & Education",
-    "projects": "Personal Projects"
+    "projects": "Personal Projects",
+    "certifications": "Certifications"
   },
   "techStack": {
     "data": {
@@ -86,6 +87,16 @@
       ],
       "link": "https://github.com/nathVL/gaming-analytics",
       "linkBtn": "View on GitHub"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "cert-toeic",
+      "title": "TOEIC Listening and Reading",
+      "issuer": "ETS",
+      "score": "935/990",
+      "link": "https://www.etsglobal.org/fr/en/digital-score-report/BAB3A26B34C1D5EE6317C856F27D8E8B0B409B8EBD1187055F7026B9EA52D552MFRRdFNYWldOREREdWpRenA0WU5kUjZJOUlkWmVXS3VLc1BlR0FiTldnSnZ6aHFL",
+      "linkText": "View certificate"
     }
   ]
 }

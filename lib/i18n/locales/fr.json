@@ -2,7 +2,8 @@
     "hero": {
         "title": "Nathan Villette",
         "subtitle": "Futur Ingénieur Data",
-        "description": "Futur ingénieur data spécialisé dans l'administration et l'exploitation des données. Je conçois des pipelines ETL robustes et des architectures de stockage. En dehors de la tech, je pratique le volleyball, la course à pied et l'escalade.",
+        "description": "Futur ingénieur data spécialisé dans l'administration et l'exploitation des données. Je conçois des pipelines ETL robustes et des architectures de stockage.",
+        "personalInfo": "Sur mon temps libre, j'aime mener des projets personnels et faire du sport, notamment le volleyball, la course à pied et l'escalade.",
         "contactBtn": "Me contacter",
         "githubBtn": "GitHub",
         "linkedinBtn": "LinkedIn"
@@ -10,7 +11,8 @@
     "sections": {
         "techStack": "Stack Technique",
         "experience": "Expérience & Formation",
-        "projects": "Projets personnels"
+        "projects": "Projets personnels",
+        "certifications": "Certifications"
     },
     "techStack": {
         "data": {
@@ -87,6 +89,16 @@
             ],
             "link": "https://github.com/nathVL/gaming-analytics",
             "linkBtn": "Voir sur GitHub"
+        }
+    ],
+    "certifications": [
+        {
+            "id": "cert-toeic",
+            "title": "TOEIC Listening and Reading",
+            "issuer": "ETS",
+            "score": "935/990",
+            "link": "https://www.etsglobal.org/fr/en/digital-score-report/BAB3A26B34C1D5EE6317C856F27D8E8B0B409B8EBD1187055F7026B9EA52D552MFRRdFNYWldOREREdWpRenA0WU5kUjZJOUlkWmVXS3VLc1BlR0FiTldnSnZ6aHFL",
+            "linkText": "Voir le certificat"
         }
     ]
 }
