@@ -1,0 +1,91 @@
+{
+  "hero": {
+    "title": "Nathan Villette",
+    "subtitle": "Aspiring Data Engineer",
+    "description": "A future data engineer specializing in data management and operations. I design robust ETL pipelines and storage architectures to transform data streams into business intelligence solutions.",
+    "personalInfo": "In my free time, I enjoy working on personal projects and staying active through sports, specifically volleyball, running, and climbing.",
+    "contactBtn": "Get in touch",
+    "githubBtn": "GitHub",
+    "linkedinBtn": "LinkedIn"
+  },
+  "sections": {
+    "techStack": "Technical Stack",
+    "experience": "Experience & Education",
+    "projects": "Personal Projects"
+  },
+  "techStack": {
+    "data": {
+      "title": "Data Engineering",
+      "items": [
+        "Python",
+        "SQL",
+        "PostgreSQL",
+        "DuckDB",
+        "ETL Pipelines",
+        "SSMS",
+        "Docker"
+      ]
+    },
+    "development": {
+      "title": "Software Development",
+      "items": [
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Vue",
+        "C#",
+        "PHP",
+        "Tailwind CSS"
+      ]
+    }
+  },
+  "experience": [
+    {
+      "id": "exp-1",
+      "role": "Data Engineer (Apprenticeship, Temporary & Internship)",
+      "company": "CDER (51)",
+      "period": "April 2025 - August 2026",
+      "description": "A 16-month progressive career path transitioning from software development (tool creation and maintenance) to data engineering: designing ETL pipelines, performing statistical analysis, and deploying BI solutions using Power BI."
+    },
+    {
+      "id": "edu-2",
+      "role": "Bachelor University of Technology (BUT) in Computer Science",
+      "company": "University of Reims Champagne-Ardenne (51)",
+      "period": "2023 - 2026",
+      "description": "Specialization: Data Administration, Management, and Exploitation"
+    },
+    {
+      "id": "edu-1",
+      "role": "General Baccalaureate (High School Diploma)",
+      "company": "Lycée Maurice Rondeau - Bussy Saint Georges (77)",
+      "period": "2020 - 2023",
+      "description": "Majors: Mathematics, Physics & Chemistry"
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-speedflag",
+      "title": "Speedflag",
+      "description": "A flag-guessing game where you have 30 seconds to identify as many flags as possible. Built for technical challenge and competitive play with a global leaderboard and login system.",
+      "tech": [
+        "React",
+        "TypeScript",
+        "daisyUI",
+        "MariaDB"
+      ],
+      "link": "https://speedflag.net",
+      "linkBtn": "Play Speedflag"
+    },
+    {
+      "id": "proj-gaming-analytics",
+      "title": "Gaming Analytics",
+      "description": "An ETL pipeline designed to extract, transform, and load data from Steam and Twitch to analyze gaming market trends.",
+      "tech": [
+        "Python",
+        "DuckDB"
+      ],
+      "link": "https://github.com/nathVL/gaming-analytics",
+      "linkBtn": "View on GitHub"
+    }
+  ]
+}

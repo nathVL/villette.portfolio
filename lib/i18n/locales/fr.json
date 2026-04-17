@@ -1,0 +1,92 @@
+{
+    "hero": {
+        "title": "Nathan Villette",
+        "subtitle": "Futur Ingénieur Data",
+        "description": "Futur ingénieur data spécialisé dans l'administration et l'exploitation des données. Je conçois des pipelines ETL robustes et des architectures de stockage. En dehors de la tech, je pratique le volleyball, la course à pied et l'escalade.",
+        "contactBtn": "Me contacter",
+        "githubBtn": "GitHub",
+        "linkedinBtn": "LinkedIn"
+    },
+    "sections": {
+        "techStack": "Stack Technique",
+        "experience": "Expérience & Formation",
+        "projects": "Projets personnels"
+    },
+    "techStack": {
+        "data": {
+            "title": "Data Engineering",
+            "items": [
+                "Python",
+                "SQL",
+                "PostgreSQL",
+                "DuckDB",
+                "Pipelines ETL",
+                "SSMS",
+                "Docker"
+            ]
+        },
+        "development": {
+            "title": "Développement Logiciel",
+            "items": [
+                "TypeScript",
+                "React",
+                "Next.js",
+                "Vue",
+                "C#",
+                "PHP",
+                "Tailwind CSS"
+            ]
+        }
+    },
+    "experience": [
+        {
+            "id": "exp-1",
+            "role": "Data Engineer (Alternance, Intérim & Stage)",
+            "company": "CDER (51)",
+            "period": "Avril 2025 - Août 2026",
+            "description": "Parcours évolutif de 16 mois marqué par une transition du développement (création d'outils, maintenance) vers l'ingénierie de données : conception de pipelines ETL, analyses statistiques et déploiement de solutions décisionnelles sous Power BI."
+        },
+        {
+            "id": "edu-2",
+            "role": "BUT Informatique",
+            "company": "Université de Reims Champagne-Ardenne (51)",
+            "period": "2023 - 2026",
+            "description": "Parcours : Administration, Gestion et Exploitation des Données"
+        },
+        {
+            "id": "edu-1",
+            "role": "Baccalauréat Général",
+            "company": "Lycée Maurice Rondeau - Bussys Saint Georges (77)",
+            "period": "2020 - 2023",
+            "description": "Spécialités : Mathématiques, Physique-Chimie"
+        }
+    ],
+    "projects": [
+        {
+            "id": "proj-speedflag",
+            "title": "Speedflag",
+            "description": "Un jeu de drapeaux où il faut deviner un maximum de drapeaux en 30 secondes. Créé pour le défi technique et pour se comparer facilement aux autres via un système de connexion et un leaderboard.",
+            "tech": [
+                "React",
+                "TypeScript",
+                "daisyUI",
+                "MariaDB"
+            ],
+            "link": "https://speedflag.net",
+            "linkBtn": "Jouer à Speedflag"
+        },
+        {
+            "id": "proj-gaming-analytics",
+            "title": "Gaming Analytics",
+            "description": "Une pipeline ETL conçue pour extraire, transformer et charger des données provenant de Steam et Twitch afin d'analyser les tendances du marché du jeu vidéo.",
+            "tech": [
+                "Python",
+                "Airflow",
+                "PostgreSQL",
+                "Docker"
+            ],
+            "link": "https://github.com/nathVL/gaming-analytics",
+            "linkBtn": "Voir sur GitHub"
+        }
+    ]
+}
